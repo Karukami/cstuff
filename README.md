@@ -7,5 +7,6 @@ C code for practice
 * **grid2.c** : Prints a box
 * **grid3.c** : Prints a huge box
 * **helloworld.c** : Hello, World!
+* **openfile.c** : Opens and reads a file
 * **palindrome.c** : Determines if a word is a palindrome
 * **randomint.c** : Outputs a random number
