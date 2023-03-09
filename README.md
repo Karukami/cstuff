@@ -10,3 +10,4 @@ C code for practice
 * **openfile.c** : Opens and reads a file
 * **palindrome.c** : Determines if a word is a palindrome
 * **randomint.c** : Outputs a random number
+* **writefile.c** : Writes to file
