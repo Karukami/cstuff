@@ -3,6 +3,7 @@ C code for practice
 
 * **calculator.c** : Basic math operations on two numbers
 * **check_os.c** : Determines OS by checking the compiler macros
+* **fileoutput.c** : Outputs stdout to a file
 * **grid.c** : Prints a 2dim array
 * **grid2.c** : Prints a box
 * **grid3.c** : Prints a huge box

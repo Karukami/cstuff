@@ -1,0 +1,2 @@
+This text should appear inside the file.
+Hello, is there some coca cola in here?
